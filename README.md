@@ -7,7 +7,7 @@ Make a short link by using [Cutt.ly](https://cutt.ly/) API key Or With [Da.gd](h
 Use [ShortLinkRobot](https://t.me/URLShortenRobot) with 10+ sites Support !!
 
 #### The Simple Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vivektp/TG-ShortLinkBot)
 
 ### Developer 
 * Telegram [Mrvishal2k2](https://t.me/Mrvishal_2k2) 
