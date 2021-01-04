@@ -26,8 +26,9 @@ bot = Client('Bitly bot',
 async def start(bot, update):
     await update.reply(
         f"**Hi {update.chat.first_name}!**\n\n"
-        "**I'm shortlink bot. Just send me link and get adsless short link!** **Join Now On @VKPROJECTS ♥️**")
+        "**I'm shortlink bot. Just send me link and get adsless short link!**\n\n"
 
+         "****Join Now On [VK PROJECTS](https://t.me/VKPROJECTS) ♥️**")
 
 @bot.on_message(Filters.regex(r'https?://[^\s]+') & Filters.private)
 async def link_handler(bot, update):
